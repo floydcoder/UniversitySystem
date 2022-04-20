@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JAVA" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="universitysystem_asgmt1.UniversitySystem_asgmt1" />
+    <module name="UniversitySystem_asgmt1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

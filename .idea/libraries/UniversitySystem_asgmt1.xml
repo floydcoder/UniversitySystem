@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UniversitySystem_asgmt1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/UniversitySystem_asgmt1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
